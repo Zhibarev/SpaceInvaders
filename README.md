@@ -1,3 +1,3 @@
 # Space invaders game
 
-![Game process](./game.png)
+<img src="./game.png" width="400">
